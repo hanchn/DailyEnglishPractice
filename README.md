@@ -1,15 +1,5 @@
-## 
-[学习路径大纲](./guidanceDocuments/Outline.md)
-[200单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
-[500单词路径](./guidanceDocuments/500words.md)
+## 路径
+[学习路径](./guidanceDocuments/Outline.md)
+
+## 语法
+[a和an](./sentenceStructure/)
